@@ -1,7 +1,7 @@
 {
-  "name": "express",
+  "name": "expresspractice",
   "version": "1.0.0",
-  "description": "Express webframe",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "express": "^4.16.2"
