@@ -1,12 +1,8 @@
 {
   "name": "expresspractice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express Web frame practice",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.16.2"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antschreier82/Express/issues"
   },
-  "homepage": "https://github.com/antschreier82/Express#readme"
+  "homepage": "https://github.com/antschreier82/Express#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
